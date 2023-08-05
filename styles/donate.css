@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.nav-tittle {
+    font-weight: 800;
+    font-size: 45px;
+    color: wheat;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 50px;
+}
+
+nav ul {
+    display: flex;
+}
+
+body {
+    background-image: url(../images/Untitled\ design\ \(1\).png);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+
+}
